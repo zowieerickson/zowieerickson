@@ -1,4 +1,4 @@
-<h2 left="center">Hi there 👋, I'm Zowie Erickson - a Frontend Developer from Miami!</h2>
+<h2 left="center">Hi there, I'm Zowie Erickson! 👋</h2>
 <p align="left">I'm a Frontend Developer currently working at Hogarth Worldwide.</p>
 
 - 🔭 I’m currently working on [IP Address Tracker](https://erickson-ip-address-tracker.netlify.app/)
