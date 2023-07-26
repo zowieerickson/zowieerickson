@@ -15,6 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zowieerickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zowieerickson" height="30" width="40" /></a> <a href="mailto:zowie.erickson@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="zowie.erickson@gmail.com" height="40" width="47" /></a>
+<a href="https://linkedin.com/in/zowieerickson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zowieerickson" height="30" width="40" /></a> <a href="mailto:zowie.erickson@gmail.com" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="zowie.erickson@gmail.com" height="40" width="47" /></a>
 </p>
 
