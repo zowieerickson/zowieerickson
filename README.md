@@ -3,9 +3,9 @@
 
 <h3 align="left">What I'm doing now</h3>
 <ul>
-<li>🔭 I’m currently working on an <a href="https://erickson-ip-address-tracker.netlify.app/">IP Address Tracker App</a> using React and third-party APIs with a focus on security, accessibility, and responsive web design.</li> 
+<li>🔭 I’m currently working on an <a href="https://erickson-ip-address-tracker.netlify.app/">IP Address Tracker app</a> using React and third-party APIs with a focus on security, accessibility, and responsive web design.</li> 
 
-<li>🌱 I’m currently learning **React** from the <a href="https://react.dev/learn">React documentation</a> and applying my knowledge by creating small projects/apps from <a href="https://www.frontendmentor.io/profile/zowieerickson">Frontend Mentor</a>.</li> 
+<li>🌱 I’m currently learning <b>React</b> from the <a href="https://react.dev/learn">React documentation</a> and applying my knowledge by creating small projects/apps from <a href="https://www.frontendmentor.io/profile/zowieerickson">Frontend Mentor</a>.</li> 
 
 <li>⚡️ Fun fact: Before my tech days as a Frontend Software Developer, I traveled across Asia as an English teacher, calling Vietnam my home while discovering a passion for coding. 🌏👩‍💻</li> 
 </ul>
