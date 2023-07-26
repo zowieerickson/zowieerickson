@@ -5,10 +5,11 @@
 
 - 🌱 I’m currently learning **React** from the [React documentation](https://react.dev/learn) and applying my knowledge by creating small projects/apps from [Frontend Mentor](https://www.frontendmentor.io/profile/zowieerickson).
 
-- 📫 How to reach me **zowie.erickson@gmail.com**
+- ⚡️ Fun fact: Before getting into tech, I was an English teacher traveling Asia, living and working primarily in Vietnam.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/zowieerickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zowieerickson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Languages and Tools:</h3>
