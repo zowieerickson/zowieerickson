@@ -1,5 +1,5 @@
 <h2 left="center">Hi there, I'm Zowie Erickson! 👋</h2>
-<p align="left">I'm a Frontend Developer at Hogarth Worldwide, focusing on UI development and accessibility.</p>
+<p align="left">I'm a Frontend Developer at Hogarth Worldwide, focusing on UI development, accessibility, and responsive web design.</p>
 
 - 🔭 I’m currently working on an [IP Address Tracker App](https://erickson-ip-address-tracker.netlify.app/) using React and third-party APIs with a focus on security, accessibility, and responsive web design.
 
