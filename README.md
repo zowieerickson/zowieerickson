@@ -2,8 +2,10 @@
 <p align="left">I'm a Frontend Developer at Hogarth Worldwide, focusing on UI development and accessibility.</p>
 
 <h3 align="left">What I'm doing now</h3>
+
+
 <ul>
-<li>🔭 I’m currently working on an <a href="https://erickson-ip-address-tracker.netlify.app/">IP Address Tracker app</a> using React and third-party APIs with a focus on security, accessibility, and responsive web design.</li> 
+<li>🔭 I’m currently working on <a href="https://erickson-designo-multi-page-website.netlify.app/">Designo</a>, a multi-page website. The project is being built with React and a heavy focus on responsive web design, accessibility, and CSS animations.</li> 
 
 <li>🌱 I’m currently learning <b>React</b> from the <a href="https://react.dev/learn">React documentation</a> and applying my knowledge by creating small projects/apps from <a href="https://www.frontendmentor.io/profile/zowieerickson">Frontend Mentor</a>.</li> 
 
