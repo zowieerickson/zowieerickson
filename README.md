@@ -9,7 +9,7 @@
 
 <li>🌱 I’m currently learning <b>React</b> from the <a href="https://react.dev/learn">React documentation</a> and applying my knowledge by creating small projects/apps from <a href="https://www.frontendmentor.io/profile/zowieerickson">Frontend Mentor</a>.</li> 
 
-<li>⚡️ Fun fact: Before my tech days as a Frontend Software Developer, I traveled across Asia as an English teacher, calling Vietnam my home while discovering a passion for coding. 🌏👩‍💻</li> 
+<li>⚡️ Fun fact: Before my tech days as a Frontend Software Developer, I traveled across Asia as an English teacher, calling Vietnam my home while discovering a passion for coding. 🌏👨🏻‍💻</li> 
 </ul>
 
 <img align="right" width="300" height="240" src="/dev-image.svg" alt="A web developer programming at his desk while wearing headphones"/>
