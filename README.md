@@ -5,7 +5,7 @@
 
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://erickson-designo-multi-page-website.netlify.app/">Designo</a>, a multi-page website. The project is being built with React and a heavy focus on responsive web design, accessibility, and CSS animations.</li> 
+<li>🔭 I’m currently working on a multi-page website called<a href="https://erickson-designo-multi-page-website.netlify.app/">Designo</a>, which is a digital marketing agency that offers marketing services, including web design and development. The project is being built with React and a heavy focus on responsive web design, accessibility, and CSS animations.</li> 
 
 <li>🌱 I’m currently learning <b>React</b> from the <a href="https://react.dev/learn">React documentation</a> and applying my knowledge by creating small projects/apps from <a href="https://www.frontendmentor.io/profile/zowieerickson">Frontend Mentor</a>.</li> 
 
